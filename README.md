@@ -1,3 +1,4 @@
 # AI_Research
 
-put some stuff - all data for the project
+This is "Using Generative AI Tools - Boon or Bane". 
+Include Literature Review, Quantitative Analysis, Qualitative Analysis, Drafts and Reports.
